@@ -100,6 +100,6 @@ Bash
 
 👤 Autor
 
-    [Seu Nome Aqui]
+     Amanda C M Dangui
 
-Este projeto foi desenvolvido com o auxílio e orientação da IA Gemini do Google.
+
