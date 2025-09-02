@@ -87,6 +87,16 @@ Bash
 
     pgzrun roguelike.py
 
+⚖️ Créditos e Atribuições
+
+Este jogo não seria possível sem os incríveis recursos artísticos disponibilizados gratuitamente pela comunidade. Agradecimentos especiais ao artista Eman pelo seu excelente trabalho.
+
+    Tileset do Cenário: O conjunto de tiles usado para construir o labirinto é o Universal Fantasy Roguelike Tileset 16x16.
+
+    Sprites dos Inimigos: As cobras foram baseadas no pacote Animated Roguelike/RPG Monsters from Eman Quest.
+
+Ambos os pacotes de assets foram disponibilizados no site OpenGameArt.org sob a licença Creative Commons Attribution 3.0 (CC-BY 3.0).
+
 👤 Autor
 
      Amanda C M Dangui
