@@ -2,7 +2,7 @@ O Bruxo e as Cobras Encantadas
 
 Um mini-jogo 2D do gênero Roguelike desenvolvido em Python utilizando a biblioteca Pygame Zero. O jogador controla um bruxo em um labirinto gerado proceduralmente, com o objetivo de coletar poções mágicas para desencantar as cobras que o perseguem.
 
-gameplay.png
+![Gameplay do Jogo](gameplay.png)
 
 📜 Sobre o Jogo
 
